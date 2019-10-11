@@ -1,4 +1,4 @@
-# data-proj-2
+# SQLAlchemy Project
 
 SOURCES:
 College Score Card
